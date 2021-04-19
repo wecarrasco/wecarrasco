@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Walther Carrasco</h1>
 <h3 align="center">A passionate FullStack developer from Honduras . I'm a constant learner 🤓 and focused on delivering results and quality ⚡.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wecarrasco&label=Profile%20views&color=0e75b6&style=flat" alt="wecarrasco" /> </p>
-
-<p align="left"> <a href="https://twitter.com/wecarrasco" target="blank"><img src="https://img.shields.io/twitter/follow/wecarrasco?logo=twitter&style=for-the-badge" alt="wecarrasco" height="25"/></a></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wecarrasco&label=Profile%20views&color=0e75b6&style=flat" alt="wecarrasco" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/wecarrasco">
+</p>
 
 [![Linkedin: walthercarrasco](https://img.shields.io/badge/-walthercarrasco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walthercarrasco/)](https://www.linkedin.com/in/walthercarrasco/)
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/wecarrasco">
 
 - 🔭 I’m currently working on [CodeX Academy](https://www.codex.academy/)
 
