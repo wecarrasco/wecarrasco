@@ -24,6 +24,8 @@
 **📕 Latest dev.to posts [@wecarrasco](https://dev.to/wecarrasco)**
 
 <!-- BLOG-POST-LIST:START -->
+- [Strategy Pattern with Javascript](https://dev.to/wecarrasco/strategy-pattern-with-javascript-dha)
+- [Adapter Pattern with JavaScript](https://dev.to/wecarrasco/adapter-pattern-with-javascript-4lgi)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">Connect with me:</h2>
