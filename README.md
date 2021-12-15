@@ -6,7 +6,7 @@
 [![Linkedin: walthercarrasco](https://img.shields.io/badge/-walthercarrasco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walthercarrasco/)](https://www.linkedin.com/in/walthercarrasco/)
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/wecarrasco">
 
-- 🔭 I’m currently working at [PayPal](https://www.paypal.com), [CodeX Academy](https://www.codex.academy/) and [Core Code](https://core-code.io/)
+- 🔭 I’m currently working at [SweatWorks](https://www.sweatworks.com/), [CodeX Academy](https://www.codex.academy/) and [Core Code](https://core-code.io/)
 
 - 👨‍💻 My favorite tools/languages are **JavaScript and React**
 
